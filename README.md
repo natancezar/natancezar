@@ -31,4 +31,11 @@ Aprendendo:
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natancezar&title_color=9745F5&text_color=9745F5&bg_color=000000&border_color=9745F5)](https://github.com/natancezar/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=natancezar&show_icons=true&theme=midnight-purple&rank_icon=github&border_color=9745F5)
+
+
 Badges by [shields.io](https://shields.io/)
+
+GitHub Stats By [Anurag](https://github.com/anuraghazra/github-readme-stats)
